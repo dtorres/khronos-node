@@ -1,0 +1,12 @@
+{
+	"name": "khronos",
+	"version": "0.1.0",
+	"author": "Diego Torres <contact@dtorres.me> (http://dtorres.me)",
+	"description": "Cache for timed/expiring objects.  Built for data acquired from an API that gives a response valid for an amount of time.",
+	"homepage": "https://github.com/warorface/node-khronos",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/warorface/node-khronos.git"
+	},
+	"main": "./lib/khronos"
+}
